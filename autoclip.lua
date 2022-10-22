@@ -1,6 +1,6 @@
 -- basic script info
 script_name="Auto Clip"
-script_description="Makes automaticly clipmask"
+script_description="Subtracts subtrahend frame from minuend frame and transforms that into vector"
 script_author="kametsu"
 script_version="0.0.1"
 

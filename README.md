@@ -22,5 +22,4 @@ While frame times are intuitive, other options may not be, so I'll explain them.
 
 ## Changelog
 - 0.2 - Improved mask detection, added GUI, added functionality to use fragments rather than just two choosen frames, added settings (Erosion level, Minimum area and Clip type)
-
 - 0.0.1 - Initial commit

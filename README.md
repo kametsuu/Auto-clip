@@ -21,5 +21,6 @@ While frame times are intuitive, other options may not be, so I'll explain them.
 - Cliptype - If you want the inside of the mask to be visible instead of the outside, just change it from \iclip to \clip.
 
 ## Changelog
-0.2 - Improved mask detection, added GUI, added functionality to use fragments rather than just two choosen frames, added settings (Erosion level, Minimum area and Clip type)
-0.0.1 - Initial commit
+- 0.2 - Improved mask detection, added GUI, added functionality to use fragments rather than just two choosen frames, added settings (Erosion level, Minimum area and Clip type)
+
+- 0.0.1 - Initial commit
